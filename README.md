@@ -10,7 +10,7 @@ Requisitos previos
 Instrucciones de instalación y ejecución
   Paso 1: Clonar el repositorio
       Clona el repositorio en tu máquina local utilizando el siguiente comando:
-      git clone <>
+      git clone <https://github.com/MaferGallardoA/ebc.git>
      cd < EBC>
   Paso 2: Compilar el proyecto
       Ejecuta el siguiente comando para compilar el proyecto con Maven:
